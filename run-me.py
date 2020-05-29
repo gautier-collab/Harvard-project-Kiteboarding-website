@@ -14,7 +14,5 @@ while i < len(browsers):
         continue
 
 if i == len(browsers):
-    print("")
-    print("Python didn't find your browser. Please open Kiteboarding.html manually (located in directory named 'Website') with your web browser.")
-    print("")
+    print("\n\nPython didn't find your browser. Please open Kiteboarding.html manually (located in directory named 'Website') with your web browser.\n\n")
     
